@@ -1,0 +1,9 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Sun Feb 03 12:00:55 2019
+        MODULE COMPUTE_AREA__genmod
+          INTERFACE 
+            SUBROUTINE COMPUTE_AREA(R,AREA)
+              REAL(KIND=4) :: R
+              REAL(KIND=4) :: AREA
+            END SUBROUTINE COMPUTE_AREA
+          END INTERFACE 
+        END MODULE COMPUTE_AREA__genmod
